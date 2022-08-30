@@ -14,6 +14,7 @@ $ CUDA_VISIBLE_DEVICES=0 python alexnet_scale.py --reduce_resolution 2 --cross T
 ```
 $ python generate_cam_data.py 
 ```
+![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)
 
 ## Draw ROC curve
 
@@ -21,4 +22,4 @@ $ python generate_cam_data.py
 $ python roc_draw.py 
 ```
 
-## Results
+
