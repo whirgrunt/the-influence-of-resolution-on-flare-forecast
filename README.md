@@ -1,4 +1,5 @@
 # the-influence-of-resolution-on-flare-forecast
+![image](https://github.com/whirgrunt/the-influence-of-resolution-on-flare-forecast/blob/main/network.png)
 ## Train and Test
 
 ```
