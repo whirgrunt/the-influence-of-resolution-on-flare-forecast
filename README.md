@@ -14,7 +14,7 @@ $ CUDA_VISIBLE_DEVICES=0 python alexnet_scale.py --reduce_resolution 2 --cross T
 ```
 $ python generate_cam_data.py 
 ```
-![image](https://github.com/whirgrunt/the-influence-of-resolution-on-flare-forecast/main/visualize.png)
+![image](https://github.com/whirgrunt/the-influence-of-resolution-on-flare-forecast/blob/main/visualize.png)
 
 ## Draw ROC curve
 
